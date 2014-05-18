@@ -11,10 +11,10 @@ namespace TestTask
 	{
 		static void Main(string[] args)
 		{
-			//TestPowerOf();
-			//TestStringReverse();
-			//TestStringReplicate();
-			//TestFindOdds(1, 100);
+			TestPowerOf();
+			TestStringReverse();
+			TestStringReplicate();
+			TestFindOdds(1, 100);
 			TestBookShelfApi();
 		}
 
